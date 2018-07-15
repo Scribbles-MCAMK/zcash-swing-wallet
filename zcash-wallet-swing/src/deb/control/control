@@ -4,5 +4,5 @@ Section: misc
 Priority: low
 Architecture: all
 Description: ZCash Desktop GUI Wallet 
-Maintainer: tadeas.kmenta@zel.cash
+Maintainer: tadeas.kmenta@zel.cash, miles.manley@zel.cash 
 Depends: default-jdk, zcash
